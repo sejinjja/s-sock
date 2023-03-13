@@ -1,0 +1,20 @@
+{
+  "name": "s-sock",
+  "version": "1.0.0",
+  "description": "socket tester",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sejinjja/s-sock"
+  },
+  "bugs": {
+    "url": "https://github.com/sejinjja/s-sock/issues"
+  },
+  "keywords": [
+    "ls"
+  ],
+  "author": "sejiwork",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-standard": "^17.0.0"
+  }
+}
